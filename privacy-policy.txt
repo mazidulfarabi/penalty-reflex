@@ -1,0 +1,1 @@
+No user information is recorded in the server, all information, which are the level, target, timer and points variable are stored in the local storage only. Screen roation is detected by the sensor.
